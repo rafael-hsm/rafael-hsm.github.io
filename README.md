@@ -4,9 +4,9 @@ Endereço do portfólio - https://rafael-hsm.github.io/
 
 ## Desenvolvimento Web
 Utilizando Flask:
-1. Microblog with flask: [access github](https://github.com/rafael-hsm/microblog_flask).
-1. Habit Tracker: code - [access github](https://github.com/rafael-hsm/habit_tracker.git)
-1. Movie Watchlist: code - a fazer
+
+1. Microblog with flask: [code](https://github.com/rafael-hsm/microblog_flask)/ [link](https://microblog-rhsm.onrender.com).
+1. Habit Tracker: code - [code](https://github.com/rafael-hsm/habit_tracker.git)/ [link](https://rafael-habit-tracker.onrender.com).
 
 Utilizando Django:
 1. Página de Hamburgueria: code a fazer
